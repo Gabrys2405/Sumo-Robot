@@ -1,0 +1,4 @@
+1. Atmega 328P
+2. USBasp
+3. Crystal oscillator 16 MHz
+4.
