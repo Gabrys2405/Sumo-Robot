@@ -1,0 +1,10 @@
+1. Atmega 328p - 1x
+2. Stabilizator 5V 7805 - SMD TO263 - 2x
+3. TB6612FNG - dwukanałowy sterownik silników - 2x
+3. Czujnik transoptor odbiciowy KTIR0711S - 5x
+4. Sharp GP2Y0A21YK0F - analogowy czujnik odległości 10-80cm - 5x
+5. Silnik HP 50:1 - Pololu 998 - 2x
+6. Akumulator Li-Ion Titan 3000mAh 16C 2S 7,4V - DEAN - 67x37x19mm - 1x
+7. Adapter XT-60 - DEANS męsko-męski scalony MSP - 1x
+8. Wtyk XT60 z przewodem 10cm - 1x
+9. Moduł Bluetooth HC-05
